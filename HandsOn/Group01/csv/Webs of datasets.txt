@@ -1,0 +1,9 @@
+Webs:
+
+1) Presupuesto del gasto en Sevilla del año 2012 --> https://datahub.io/dataset/seville-budget
+
+2) Avisos y reclamaciones recepcionados en las secciones de bicicleta pública (BiciMAD), señalización y SER --> http://datos.madrid.es/sites/v/index.jsp?vgnextoid=7b6d05844d44f410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD
+
+3) Information about Parks in the City of Chesapeake, Virginia --> https://datahub.io/dataset/parks-in-the-city-of-chesapeake-va
+
+4) Police Santa Monica Calls for Service in 2015 --> https://data.smgov.net/Public-Safety/Police-Calls-for-Service/ia9m-wspt
